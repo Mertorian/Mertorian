@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Internet-in-a-Nutshell**
 
-- 🌱 I’m currently learning **Python, C,**
+- 🌱 I’m currently learning **Python and C**
 
 - 👯 I’m looking to collaborate on **fun projects!**
 
